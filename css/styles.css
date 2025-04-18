@@ -1,0 +1,48 @@
+:root{
+--color-primary: #F21905;   /* rojo dino peligro */
+--color-secondary: #299332; /* verde jungla viva */
+--color-accent: #F2E205;    /* amarillo alerta / energía */
+--color-dark: #0D0D0D;      /* negro elegante y fuerte */
+--color-light: #C0C0C0;     /* plateado para contraste limpio */
+--color-background: #ffffff; /* blanco o un gris muy claro para airear */
+--color-fount: black;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: var(--color-background);
+    line-height: 1.6;
+    min-height: 100vh;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+button {
+    cursor: pointer;
+    background-color: var(--color-primary);
+    border: none;
+    padding: 0.5em 1em;
+    border-radius: 5px;
+}
+
