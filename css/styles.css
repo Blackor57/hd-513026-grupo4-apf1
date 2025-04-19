@@ -5,6 +5,7 @@
 --color-dark: #0D0D0D;      /* negro elegante y fuerte */
 --color-light: #C0C0C0;     /* plateado para contraste limpio */
 --color-background: #ffffff; /* blanco o un gris muy claro para airear */
+--color-white: white;
 --color-fount: black;
 }
 * {

@@ -42,19 +42,20 @@
 
 .nav-links.right {
   margin-left: 10rem;
-}
+} 
 
 .nav-links a {
-  color: var(--color-dark);
+  color: var(--color-white);
   font-weight: bold;
+  font-size: 1.2rem;
   font-family: "Arial Black", sans-serif;
   transition: color 0.3s ease, text-shadow 0.3s ease;
-  text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.5),
-    -1px -1px 0 rgba(0, 0, 0, 0.2); /* Efecto de relieve en el texto */
+  text-shadow: 1px 1px 2px black;
+  -webkit-text-stroke: 0.7px black;
 }
 
 .nav-links a:hover {
-  color: var(--color-primary);
+  color: var(--color-primary); /* Cambia el color al pasar el cursor */
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Sombra más pronunciada al pasar el cursor */
 }
 
@@ -64,7 +65,6 @@
   bottom: -30px;
   left: 50%;
   transform: translateX(-50%);
-
   z-index: 5;
 }
 
