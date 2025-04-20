@@ -1,0 +1,22 @@
+.body {
+margin: 0;
+height: 100vh;
+background-image:
+  radial-gradient(#ffffff30 1px, transparent 1px),  /* Patrón punteado blanco translúcido */
+  url('https://your-image-url.com/fondo.jpg');      /* Imagen de fondo */
+background-size:
+  20px 20px,      /* Tamaño del patrón */
+  cover;          /* Ajuste de la imagen */
+background-position:
+  top left,
+  center;
+background-repeat:
+  repeat,
+  no-repeat;
+background-attachment: fixed;
+color: white;
+font-family: sans-serif;
+display: flex;
+justify-content: center;
+align-items: center;
+}
