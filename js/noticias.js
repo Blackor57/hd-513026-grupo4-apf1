@@ -16,15 +16,15 @@ function noticiaCreada(titulo, descripcion, imagen, fecha) {
 
 const noticias = [
     {
-      titulo: "Nuevo Rex en el parque",
-      descripcion: "El Tyrannosaurus Rex llega con nuevas animaciones y rugidos.",
-      imagen: "https://via.placeholder.com/500x300?text=T-Rex",
+      titulo: "gran apertura de parque jurasico",
+      descripcion: "El nuevo parque se abre para todo el publico con criaturas sorprendentes y historias interesantes.",
+      imagen: "../img/aperturaparque.jpeg",
       fecha: "18 de abril 2025"
     },
     {
-      titulo: "Actualización de seguridad",
+      titulo: "nuevas medidad de seguridad implementadas no alimentar a los dinosaurios y solo el personal adecuado podra acercace a mas de 100 metros",
       descripcion: "Mejoras en los cercos y protocolos de emergencia.",
-      imagen: "https://via.placeholder.com/500x300?text=Seguridad",
+      imagen: "../img/seguridadparque.png",
       fecha: "15 de abril 2025"
     },
     {
