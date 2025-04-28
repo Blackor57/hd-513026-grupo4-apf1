@@ -1,21 +1,21 @@
 const tarjetas = [
     {
-        imagen: "https://hips.hearstapps.com/hmg-prod/images/jurassic-world-1645009812.jpeg?crop=0.566xw:1.00xh;0.347xw,0&resize=640:*",
-        titulo: "Título de la tarjeta 1",
-        descripcion: "Este es el texto de la tarjeta 1. Se ajusta al tamaño del contenido.",
-        actualizado: "Última actualización hace 3 minutos"
+        imagen: "https://wallpapercave.com/wp/wp14769882.jpg",
+        titulo: "Explora el Mundo Jurásico",
+        descripcion: "Vive una aventura única entre dinosaurios reales en nuestro parque temático. ¡No te lo pierdas!",
+        actualizado: "Descubre más ->"
     },
     {
-        imagen: "https://hips.hearstapps.com/hmg-prod/images/jurassic-world-1645009812.jpeg?crop=0.566xw:1.00xh;0.347xw,0&resize=640:*",
-        titulo: "Título de la tarjeta 2",
-        descripcion: "Este es el texto de la tarjeta 2. Se ajusta al tamaño del contenido.",
-        actualizado: "Última actualización hace 5 minutos"
+        imagen: "https://i.redd.it/p1w9dt7oplsd1.jpeg",
+        titulo: "Dinosaurios Marinos",
+        descripcion: "Sumérgete en el océano prehistórico y conoce a los reptiles más grandes que jamás existieron.",
+        actualizado: "Descubre más ->"
     },
     {
-        imagen: "https://hips.hearstapps.com/hmg-prod/images/jurassic-world-1645009812.jpeg?crop=0.566xw:1.00xh;0.347xw,0&resize=640:*",
-        titulo: "Título de la tarjeta 3",
-        descripcion: "Este es el texto de la tarjeta 3. Se ajusta al tamaño del contenido.",
-        actualizado: "Última actualización hace 10 minutos"
+        imagen: "https://s0.smartresize.com/wallpaper/447/873/HD-wallpaper-logo-movie-jurassic-park-jurassic-world-jurassic-world-dominion.jpg",
+        titulo: "Entrada Jurassic Gold",
+        descripcion: "Ahorra un 30% en tu pase especial y accede a zonas exclusivas, espectáculos y encuentros cercanos.",
+        actualizado: "Descubre más ->"
     }
 ];
 
