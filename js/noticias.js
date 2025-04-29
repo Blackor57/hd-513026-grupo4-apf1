@@ -32,6 +32,12 @@ const noticias = [
       descripcion: "Explora el nuevo entorno tropical con especies únicas.",
       imagen: "https://via.placeholder.com/500x300?text=Bioma+Tropical",
       fecha: "12 de abril 2025"
+    },
+    {
+      titulo: "Nuevo bioma tropical",
+      descripcion: "Explora el nuevo entorno tropical con especies únicas.",
+      imagen: "https://via.placeholder.com/500x300?text=Bioma+Tropical",
+      fecha: "12 de abril 2025"
     }
   ];
 
