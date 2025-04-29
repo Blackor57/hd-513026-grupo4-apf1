@@ -13,6 +13,7 @@
 }
 
 .navbar {
+  margin-top: 50px;
   position: relative;
   background: url("/img/metal-texture.jpg") repeat; /* Repite la imagen en todo el navbar */
   background-size: 100px 100px; /* Ajusta el tamaño de cada imagen repetida */
@@ -61,7 +62,6 @@
   color: var(--color-white);
   font-weight: bold;
   font-size: 1.2rem;
-  font-family: "Arial Black", sans-serif;
   transition: color 0.3s ease, text-shadow 0.3s ease;
   text-shadow: 1px 1px 2px black;
   -webkit-text-stroke: 0.7px black;
